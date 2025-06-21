@@ -1,5 +1,3 @@
-# C#EgitimKAmpi
-
 # 💻 C# Eğitim Kampı Projeleri
 
 Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen **C# eğitim kampı** süresince tamamladığım projeleri içermektedir.  
