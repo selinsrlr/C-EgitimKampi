@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DatabaseProject", "09_Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_DatabaseCrud", "10_DatabaseCrud\10_DatabaseCrud.csproj", "{568A3ED4-FE3A-4B52-9E24-FD6E360FE5A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EgitimKampi301.EFProject", "C#EgitimKampi301.EFProject\C#EgitimKampi301.EFProject.csproj", "{6F9C0AE4-A1AA-42C1-BDC4-10A27EE7E458}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{568A3ED4-FE3A-4B52-9E24-FD6E360FE5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{568A3ED4-FE3A-4B52-9E24-FD6E360FE5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{568A3ED4-FE3A-4B52-9E24-FD6E360FE5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9C0AE4-A1AA-42C1-BDC4-10A27EE7E458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9C0AE4-A1AA-42C1-BDC4-10A27EE7E458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9C0AE4-A1AA-42C1-BDC4-10A27EE7E458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9C0AE4-A1AA-42C1-BDC4-10A27EE7E458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
