@@ -54,4 +54,18 @@ Bu projede metotları öğrendim.
 Geriye değer döndüren ve döndürmeyen metotları kullanarak daha düzenli ve parçalı kodlar yazdım.  
 Bu sayede daha karmaşık işlemleri yönetmeyi ve kodun okunabilirliğini artırmayı öğrendim.
 
+---
+
+### 🟢 Proje 9: Database-Based Product-Category Information System
+Bu projede veritabanı bağlantısı kurma, SQL sorguları ile veri çekme ve kullanıcı etkileşimiyle dinamik veri listeleme gibi temel veritabanı işlemlerini öğrendim. 
+Proje süresince SqlConnection ve SqlCommand sınıflarını kullanarak veritabanına bağlanma ve SQL komutlarını çalışma pratiği edindim.
+Bu uygulama, veritabanı yönetimi ve uygulama-veri etkileşimi konularında pratik bilgi kazanmamı sağladı.
+
+---
+
+### 🟢 Proje 10: Menu Order Management Panel - CRUD
+Bu projede, temel CRUD (Create, Read, Update, Delete) işlemleri üzerinden bir veritabanı ile etkili bir şekilde etkileşim kurmayı öğrendim. 
+SQL bağlantısı aracılığıyla ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlevlerini uygulayarak, veri yönetimi konusunda pratik kazandım.
+Proje süresince SQL kullanarak ürün bilgilerinin dinamik olarak düzenlenmesiyle daha esnek ve kullanıcı dostu bir sistem yapısı oluşturmayı deneyimledim. 
+
 
