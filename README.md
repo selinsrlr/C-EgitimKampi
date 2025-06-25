@@ -68,4 +68,12 @@ Bu projede, temel CRUD (Create, Read, Update, Delete) işlemleri üzerinden bir 
 SQL bağlantısı aracılığıyla ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlevlerini uygulayarak, veri yönetimi konusunda pratik kazandım.
 Proje süresince SQL kullanarak ürün bilgilerinin dinamik olarak düzenlenmesiyle daha esnek ve kullanıcı dostu bir sistem yapısı oluşturmayı deneyimledim. 
 
+---
 
+### 🟢 Proje 11: Travel Statistics Panel with Entity Framework
+![FrmStatistics](https://github.com/user-attachments/assets/a090fb1f-21ab-44aa-bfd8-6606a28dc082)
+
+Bu projede Entity Framework kullanarak veritabanı ile bağlantı kurma ve sorgulama işlemlerini daha etkin bir şekilde kullanmayı öğrendim. 
+Windows Form uygulaması aracılığıyla veritabanındaki verileri görselleştirerek, kullanıcı dostu bir arayüz tasarladım.
+Ayrıca, sorgu sonuçlarını verimli bir şekilde işleyerek uygulamanın işlevselliğini artıran bir yapı oluşturdum. 
+Bu sayede hem veri yönetimi hem de arayüz tasarımı konusunda önemli kazanımlar elde ettim.
